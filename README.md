@@ -25,5 +25,4 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-![PikachuGIF](https://user-images.githubusercontent.com/94329367/209941044-3ef2145e-9ec0-4bae-ac61-c154f4b5a294.gif)
 
